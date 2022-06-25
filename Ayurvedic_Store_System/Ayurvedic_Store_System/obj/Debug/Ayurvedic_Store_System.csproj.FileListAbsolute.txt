@@ -1,0 +1,14 @@
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.dll
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.pdb
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.dll
+E:\Ayurvedic Store System\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.pdb
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.dll
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.pdb
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.dll
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.pdb
+E:\MSc - 2 Sem\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.csprojResolveAssemblyReference.cache
+D:\Ayurvedic Store System All Project\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.dll
+D:\Ayurvedic Store System All Project\Ayurvedic_Store_System\Ayurvedic_Store_System\bin\Ayurvedic_Store_System.pdb
+D:\Ayurvedic Store System All Project\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.csprojResolveAssemblyReference.cache
+D:\Ayurvedic Store System All Project\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.dll
+D:\Ayurvedic Store System All Project\Ayurvedic_Store_System\Ayurvedic_Store_System\obj\Debug\Ayurvedic_Store_System.pdb
